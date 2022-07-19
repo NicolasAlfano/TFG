@@ -1,0 +1,12 @@
+export 'package:productos_app/models/geometry.dart';
+export 'package:productos_app/models/gps.dart';
+export 'package:productos_app/models/location.dart';
+export 'package:productos_app/models/persons.dart';
+export 'package:productos_app/models/pets.dart';
+export 'package:productos_app/models/petService.dart';
+export 'package:productos_app/models/place.dart';
+export 'package:productos_app/models/placeSearch.dart';
+export 'package:productos_app/models/serviceFrequency.dart';
+export 'package:productos_app/models/user.dart';
+export 'package:productos_app/models/walk.dart';
+export 'package:productos_app/models/walkers.dart';
